@@ -16,9 +16,7 @@ Food Munch is a responsive food and restaurant website designed to present food 
 ## Technologies Used
 - HTML5
 - CSS3
-- Bootstrap 4
-- JavaScript and jQuery (for Bootstrap interactive components)
-- Google Fonts
+- Bootstrap
 
 ## Getting Started
 1. Clone or download this repository.
